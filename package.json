@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "express-generator": "^4.16.1",
+    "http-errors": "^2.0.0",
+    "pg": "^8.13.0"
+  },
+  "name": "postgresql",
+  "version": "1.0.0",
+  "main": "databasepg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
